@@ -16,7 +16,15 @@ public class SumArray {
             System.out.println(sum);
 
         } catch (IOException e) {
-            System.out.println("Error ");
+            System.out.println("Error");
         }
     }
 }
+
+/*
+ * Input:
+ * 10
+ * 3 -1 -3 5 2 5 0 -1 5 4
+ * Output:
+ * 19
+ */

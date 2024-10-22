@@ -18,7 +18,14 @@ public class FindPerimeterAndAreaOfARectangle {
             System.out.println(perimeter + " " + area);
 
         } catch (IOException e) {
-            System.out.println("Error ");
+            System.out.println("Error");
         }
     }
 }
+
+/*
+ * Input:
+ * 7 12
+ * Output:
+ * 38 84
+ */
