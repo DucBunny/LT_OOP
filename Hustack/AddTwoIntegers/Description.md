@@ -8,7 +8,8 @@ Input
 Ouput
 
 - Write the sum of a and b
-  
+
+---
 **Example 1:**
 > - Input: `3 5`
 > - Output: `8`
