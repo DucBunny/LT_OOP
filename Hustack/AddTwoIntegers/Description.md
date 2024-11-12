@@ -9,13 +9,13 @@ Ouput
 
 - Write the sum of a and b
   
-**Example1**
+**Example1:**
 
 - Input: `3 5`
 
 - Output: `8`
   
-**Example2**
+**Example2:**
 
 - Input: `10000000000000000000 10000000000000000000`
 
