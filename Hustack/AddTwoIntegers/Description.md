@@ -3,7 +3,7 @@
 
 Input
 
-- Line 1: contains two integers `a` and `b` `(0 <= a, b <= $10^{19}$)`
+- Line 1: contains two integers `a` and `b` (0 <= a, b <= $10^{19}$)
 
 Ouput
 
